@@ -1,0 +1,22 @@
+#para1{
+            border:4px solid orange;
+        }
+        #nav{
+            display:flex;
+            justify-content:space-around;
+        }
+        #nav1{
+            display:flex;
+            flex-direction:column;
+        }
+        #input_data{
+            border:none;
+            width:300px;
+            height:20px;
+            border:1px solid red;
+
+        }
+        #categories{
+            display:flex;
+        }
+            
